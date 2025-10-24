@@ -51,7 +51,7 @@ Its project teaches "core programming concepts" using practical exercises. It co
 ### Tuple Operations
 19. Concatenate two tuples, remove duplicates, and sort the result  
 
----
+
 
 ## Python Conditional Logic Tasks
 
